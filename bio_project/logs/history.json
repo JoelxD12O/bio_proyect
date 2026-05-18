@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2026-05-17T23:47:28.888380",
+        "type": "GLOBAL",
+        "query": "AGCCCTCCAGGACAGGCTGCATCAGAAGAGGCCATCAAGCAGATCACTGTCC",
+        "results_count": 5,
+        "top_hits": [
+            {
+                "org": "gi|1677499433|ref|NM_001042376.3| Homo sapiens INS-IGF2 readthrough (INS-IGF2), transcript variant 2, mRNA",
+                "e_value": "4.238e-16"
+            },
+            {
+                "org": "gi|90297500|gb|DQ104205.1| Homo sapiens INSIGF long transcript variant mRNA, complete cds, alternatively spliced",
+                "e_value": "4.238e-16"
+            },
+            {
+                "org": "gi|13528923|gb|BC005255.1| Homo sapiens insulin, mRNA (cDNA clone MGC:12292 IMAGE:3950204), complete cds",
+                "e_value": "4.238e-16"
+            }
+        ]
+    }
+]

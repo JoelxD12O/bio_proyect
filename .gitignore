@@ -1,0 +1,23 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos temporales de BLAST
+bio_project/queries/*.fasta
+bio_project/results/*.txt
+bio_project/blastdb/mydb.n*
+
+# Logs y Datos de usuario (Opcional, según preferencia)
+# bio_project/logs/
+# history.json
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
